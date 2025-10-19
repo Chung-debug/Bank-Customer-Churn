@@ -35,7 +35,7 @@ Credit Score | 500 - 650 | 907 | Customers with lower-to-average credit scores e
 
 🛠️ Technologies Used
 
-SQL (T-SQL/PostgreSQL/MySQL): Used for data cleaning, aggregation, and deep-dive analysis (queries are located in Bank Churn SQL Queries.docx).
+SQL (Microsoft SQL): Used for data cleaning, aggregation, and deep-dive analysis (queries are located in Bank Churn SQL Queries.docx).
 
 Power BI: Utilized for creating the interactive and visually appealing churn dashboard.
 
@@ -46,3 +46,4 @@ Microsoft Word/DOCX: For documenting the detailed SQL queries and initial findin
 churn dashboard.jpg: The image file for the final Power BI dashboard.
 
 Bank Churn SQL Queries.docx: Contains all the structured SQL queries used to calculate the churn counts and metrics by category and range (e.g., Age Ranges, Credit Score Ranges, Balance Ranges).
+Other data files (CSV/Excel, Power Bi, PDF, JPG) would be included here.
