@@ -18,7 +18,7 @@ Churned Customers: 2,037
 
 Overall Churn Rate: 20.37%
 
-![Bank Customer Retention & Churn Analysis Dashboard](churn dashboard.jpg)
+![Bank Customer Retention & Churn Analysis Dashboard]("churn dashboard.jpg")
 
 🔑 Key Findings & Insights
 
